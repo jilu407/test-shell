@@ -2,7 +2,7 @@ A collection of simple Bash scripts.
 
 ## Getting Started
 
-1. [Hello.sh](scripts/hello-world.sh): get a simple output
+1. [Hello.sh]  (scripts/hello-world.sh): get a simple output
 1. [Process.sh](scripts/process.sh): execute more than one command in a script
 1. [Interactive.sh](scripts/interactive.sh): a simple but very much interactive script
 1. [Special-Pattern.sh](scripts/special-pattern.sh): draw a diamond pattern with dots(.)
